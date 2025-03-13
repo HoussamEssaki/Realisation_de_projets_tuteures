@@ -2,7 +2,7 @@
 
 Plateforme e-commerce avec IA et cybersécurité
 
-Keywords
+Keywords :
 e-commerce, intelligence artificielle, cybersécurité, machine Learning, Deep Learning, recommandations personnalisées, reconnaissance d'images, recherche visuelle de produits, développement et programmation, sécurité réseau.
 
 Brève description :
