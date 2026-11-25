@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="assets/project-cover.svg" alt="Realisation_de_projets_tuteures — custom NEXUS project cover" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HoussamEssaki/Realisation_de_projets_tuteures/main/assets/project-cover.svg" alt="NEXUS project cover — AI and e-commerce" width="100%" />
+</p>
 
 </div>
 
