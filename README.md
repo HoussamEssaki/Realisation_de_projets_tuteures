@@ -1,5 +1,11 @@
 # Academic Projects — E-commerce, AI and Security
 
+<div align="center">
+
+<img src="assets/project-cover.svg" alt="Realisation_de_projets_tuteures — custom NEXUS project cover" width="100%" />
+
+</div>
+
 This repository presents an academic project concept centered on an e-commerce platform that explores the use of AI-related capabilities alongside application and data security considerations.
 
 ## Project concept
