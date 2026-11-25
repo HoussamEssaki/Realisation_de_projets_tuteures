@@ -2,7 +2,11 @@
 
 <div align="center">
 
-![NEXUS project cover — AI and e-commerce](https://github.com/HoussamEssaki/Realisation_de_projets_tuteures/blob/main/assets/project-cover.svg?raw=true)
+<div align="center">
+
+![AI × E-commerce — NEXUS project banner](https://capsule-render.vercel.app/api?type=rect&color=0:101820,100:18242D&height=220&section=header&text=AI%20%C3%97%20E-COMMERCE&fontColor=F4F7F8&fontSize=42&fontAlignY=43&desc=RECOMMENDATION%20%2F%20COMPUTER%20VISION%20%2F%20SECURITY&descAlignY=68&descSize=14)
+
+</div>
 
 </div>
 
